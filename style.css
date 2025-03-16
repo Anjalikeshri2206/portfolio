@@ -439,7 +439,7 @@ button:nth-child(2):hover{
 }
 .project-layer p{
     font-size: 1.2rem;
-    margin: .3rem 0 1rem;
+    margin: .2rem 0 1rem;
 }
 .project-layer a{
     display: inline-flex;
